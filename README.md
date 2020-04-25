@@ -7,7 +7,7 @@ and do useful things with the results.
 
 ## Pre-requisites
 
-Install [Java](https://openjdk.java.net/) [Leiningen](https://leiningen.org/).
+Install [Java](https://openjdk.java.net/) and [Leiningen](https://leiningen.org/).
 
 ## Usage
 
