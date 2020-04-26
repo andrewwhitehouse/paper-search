@@ -85,13 +85,15 @@
          result-list)))
 
 (defn search [query opts]
-  (->> (apply get-xml-search-result query opts)
+  (->> (get-xml-search-result query opts)
        parse-xml
        (map normalized)))
 
 (comment
 
-  (search "Coronavirus mask")
+  (search "Coronavirus mask" {})
+
+  (search "Ebola AND Liberia" {})
 
   (get-xml-search-result "Coronavirus mask")
 

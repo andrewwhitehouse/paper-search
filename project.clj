@@ -11,6 +11,6 @@
                  [org.apache.pdfbox/pdfbox "2.0.19"]
                  [enlive "1.1.6"]
                  [clj-time "0.15.2"]]
-  :repl-options {:init-ns paper-search.europemc}
+  :repl-options {:init-ns paper-search.core}
   :profiles {:test {:resource-paths ["test/resources"]}}
   :main paper-search.core)
