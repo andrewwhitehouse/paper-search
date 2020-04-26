@@ -1,12 +1,9 @@
-(ns paper-search.europemc
+(ns paper-search.europmc
   (:require [clj-http.client :as http]
             [cemerick.url :refer [url-encode]]
             [clojure.data.xml :as xml]
-            [clojure.data.json :as json]
-            [paper-search.redirect :as redirect]
             [clojure.string :as str])
-  (:import (java.io StringReader)
-           (java.net URL)))
+  (:import (java.io StringReader)))
 
 (defn- node->map [node]
   (let [tag (:tag node)
@@ -69,7 +66,7 @@
 
 (defn get-xml-search-result
   "Return body of search result as string"
-  [query & opts]
+  [query opts]
   (let [opts (merge {:open-access-only? false :page-size 50} opts)
         param-map {"pageSize" :page-size}
         encoded-query-param (url-encode (if (str query " OPEN_ACCESS:y") query))
@@ -85,11 +82,12 @@
     (->> parsed-response
          :responseWrapper
          (apply merge)
-         result-list
-         (map normalized))))
+         result-list)))
 
-(defn search [query & opts]
-  (parse-xml (apply get-xml-search-result query opts)))
+(defn search [query opts]
+  (->> (apply get-xml-search-result query opts)
+       parse-xml
+       (map normalized)))
 
 (comment
 
@@ -99,7 +97,3 @@
 
   )
 
-(defn -main [& args]
-  (if (< (count args) 1)
-    (println "Specify search term as a quoted argument")
-    (json/write (search (first args)) *out* :escape-slash false)))

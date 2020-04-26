@@ -8,6 +8,9 @@
                  [com.cemerick/url "0.1.1"]
                  [org.clojure/data.xml "0.0.8"]
                  [org.clojure/data.json "1.0.0"]
-                 [org.apache.pdfbox/pdfbox "2.0.19"]]
+                 [org.apache.pdfbox/pdfbox "2.0.19"]
+                 [enlive "1.1.6"]
+                 [clj-time "0.15.2"]]
   :repl-options {:init-ns paper-search.europemc}
-  :main paper-search.europemc)
+  :profiles {:test {:resource-paths ["test/resources"]}}
+  :main paper-search.core)
