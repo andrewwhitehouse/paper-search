@@ -72,6 +72,7 @@
         encoded-query-param (url-encode (if (str query " OPEN_ACCESS:y") query))
         other-params (str/join "&" (map (fn [[qp op]] (str qp "=" (opts op))) param-map))
         url (str "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=" encoded-query-param "&" other-params)
+        _ (println "Querying" url "...")
         response (http/get url)]
     (response :body)))
 

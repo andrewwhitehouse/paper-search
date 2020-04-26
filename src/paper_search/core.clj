@@ -17,6 +17,7 @@
 (defn- medrxiv-search
   ([query opts]
    (let [results (search query opts)]
+     (println "Processing medRxiv results.")
      (->> (filter #(= :medrxiv (:publisher %)) results)
           (map #(process-page (:url %))))))
   ([query] (medrxiv-search query {})))
