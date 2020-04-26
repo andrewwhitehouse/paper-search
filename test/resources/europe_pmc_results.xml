@@ -1,0 +1,1439 @@
+<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>
+<responseWrapper xmlns:slx=\"http://www.scholix.org\" xmlns:epmc=\"https://www.europepmc.org/data\"><version>6.2
+</version><hitCount>2202</hitCount><nextCursorMark>AoIIQRqLzig0MTQ2NzY0NQ==</nextCursorMark><request>
+<queryString>Coronavirus mask</queryString>
+<resultType>lite</resultType>
+<cursorMark>*</cursorMark>
+<pageSize>50</pageSize>
+<sort></sort>
+<synonym>false</synonym>
+</request><resultList>
+<result>
+    <id>PMC7151523</id>
+    <source>PMC</source>
+    <pmcid>PMC7151523</pmcid>
+    <doi>10.1016/j.arcmed.2020.04.001</doi>
+    <title>A Reusable Mask for Coronavirus Disease 2019 (COVID-19).</title>
+    <authorString>Luan PT, Tak-Shing Ching C.</authorString>
+    <journalTitle>Arch Med Res</journalTitle>
+    <journalIssn>0188-4409; 1873-5487;</journalIssn>
+    <pubType>research-article; journal article</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>Y</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>N</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-16</firstIndexDate>
+    <firstPublicationDate>2020-04-16</firstPublicationDate>
+</result>
+<result>
+    <id>PPR148606</id>
+    <source>PPR</source>
+    <doi>10.21203/rs.3.rs-21269/v1</doi>
+    <title>Noninvasive ventilation masks with viral filters to protect health care workers from SARS-CoV-2 / Coronavirus
+        infections
+    </title>
+    <authorString>Dellweg D, Haidl P, Kerl J, Koehler D.</authorString>
+    <pubYear>2020</pubYear>
+    <pubType>preprint</pubType>
+    <bookOrReportDetails>
+        <publisher>Research Square</publisher>
+        <yearOfPublication>2020</yearOfPublication>
+    </bookOrReportDetails>
+    <isOpenAccess>N</isOpenAccess>
+    <inEPMC>N</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>N</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>N</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-09</firstIndexDate>
+    <firstPublicationDate>2020-04-08</firstPublicationDate>
+</result>
+<result>
+    <id>32294813</id>
+    <source>MED</source>
+    <pmid>32294813</pmid>
+    <doi>10.3760/cma.j.cn112147-20200304-00239</doi>
+    <title>[Expert consensus on preventing nosocomial transmission during respiratory care for critically ill patients
+        infected by 2019 novel coronavirus pneumonia].
+    </title>
+    <authorString>Respiratory Care Committee of Chinese Thoracic Society.</authorString>
+    <journalTitle>Zhonghua Jie He He Hu Xi Za Zhi</journalTitle>
+    <issue>4</issue>
+    <journalVolume>43</journalVolume>
+    <pubYear>2020</pubYear>
+    <journalIssn>1001-0939</journalIssn>
+    <pageInfo>288-296</pageInfo>
+    <pubType>journal article</pubType>
+    <isOpenAccess>N</isOpenAccess>
+    <inEPMC>N</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>N</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>N</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-17</firstIndexDate>
+    <firstPublicationDate>2020-04-01</firstPublicationDate>
+</result>
+<result>
+    <id>32318782</id>
+    <source>MED</source>
+    <pmid>32318782</pmid>
+    <pmcid>PMC7171056</pmcid>
+    <doi>10.1007/s00259-020-04780-4</doi>
+    <title>Key elements of preparedness for pandemic coronavirus disease 2019 (COVID-19) in nuclear medicine units.
+    </title>
+    <authorString>Assadi M, Gholamrezanezhad A, Jokar N, Keshavarz M, Picchio M, Seregni E, Bombardieri E, Chiti A.
+    </authorString>
+    <journalTitle>Eur J Nucl Med Mol Imaging</journalTitle>
+    <pubYear>2020</pubYear>
+    <journalIssn>1619-7070; 1619-7089;</journalIssn>
+    <pubType>editorial</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>N</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>N</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-24</firstIndexDate>
+    <firstPublicationDate>2020-04-21</firstPublicationDate>
+</result>
+<result>
+    <id>PPR153165</id>
+    <source>PPR</source>
+    <doi>10.21203/rs.3.rs-23961/v1</doi>
+    <title>Qualitative study on the social meanings of using mask during COVID-19 outbreak: implications for infection
+        control
+    </title>
+    <authorString>Mo Y, Lin X, Wei D, Deng X, Chen H, Shu Z.</authorString>
+    <pubYear>2020</pubYear>
+    <pubType>preprint</pubType>
+    <bookOrReportDetails>
+        <publisher>Research Square</publisher>
+        <yearOfPublication>2020</yearOfPublication>
+    </bookOrReportDetails>
+    <isOpenAccess>N</isOpenAccess>
+    <inEPMC>N</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>N</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>N</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-24</firstIndexDate>
+    <firstPublicationDate>2020-04-21</firstPublicationDate>
+</result>
+<result>
+    <id>32232986</id>
+    <source>MED</source>
+    <pmid>32232986</pmid>
+    <doi>10.1002/jmv.25805</doi>
+    <title>Potential utilities of mask-wearing and instant hand hygiene for fighting SARS-CoV-2.</title>
+    <authorString>Ma QX, Shan H, Zhang HL, Li GM, Yang RM, Chen JM.</authorString>
+    <journalTitle>J Med Virol</journalTitle>
+    <pubYear>2020</pubYear>
+    <journalIssn>0146-6615; 1096-9071;</journalIssn>
+    <pubType>journal article</pubType>
+    <isOpenAccess>N</isOpenAccess>
+    <inEPMC>N</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>N</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-02</firstIndexDate>
+    <firstPublicationDate>2020-03-31</firstPublicationDate>
+</result>
+<result>
+    <id>32217507</id>
+    <source>MED</source>
+    <pmid>32217507</pmid>
+    <pmcid>PMC7117090</pmcid>
+    <doi>10.2196/18717</doi>
+    <title>Assessment of Health Information About COVID-19 Prevention on the Internet: Infodemiological Study.</title>
+    <authorString>Hernández-García I, Giménez-Júlvez T.</authorString>
+    <journalTitle>JMIR Public Health Surveill</journalTitle>
+    <issue>2</issue>
+    <journalVolume>6</journalVolume>
+    <pubYear>2020</pubYear>
+    <journalIssn>2369-2960</journalIssn>
+    <pageInfo>e18717</pageInfo>
+    <pubType>research-article; journal article</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>N</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>Y</hasTMAccessionNumbers>
+    <tmAccessionTypeList>
+        <accessionType>doi</accessionType>
+    </tmAccessionTypeList>
+    <firstIndexDate>2020-03-29</firstIndexDate>
+    <firstPublicationDate>2020-04-01</firstPublicationDate>
+</result>
+<result>
+    <id>PMC7177146</id>
+    <source>PMC</source>
+    <pmcid>PMC7177146</pmcid>
+    <doi>10.1016/j.jinf.2020.04.024</doi>
+    <title>The role of community-wide wearing of face mask for control of coronavirus disease 2019 (COVID-19) epidemic
+        due to SARS-CoV-2.
+    </title>
+    <authorString>Cheng VCC, Wong S, Chuang VWM, So SYC, Chen JHK, Sridhar S, To KKW, Chan JFW, Hung IFN, Ho P, Yuen
+        K.
+    </authorString>
+    <journalTitle>J Infect</journalTitle>
+    <journalIssn>0163-4453; 1532-2742;</journalIssn>
+    <pubType>research-article; journal article</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>Y</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>N</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>N</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-25</firstIndexDate>
+    <firstPublicationDate>2020-04-25</firstPublicationDate>
+</result>
+<result>
+    <id>32203710</id>
+    <source>MED</source>
+    <pmid>32203710</pmid>
+    <pmcid>PMC7118603</pmcid>
+    <doi>10.1016/S2213-2600(20)30134-X</doi>
+    <title>Rational use of face masks in the COVID-19 pandemic.</title>
+    <authorString>Feng S, Shen C, Xia N, Song W, Fan M, Cowling BJ.</authorString>
+    <journalTitle>Lancet Respir Med</journalTitle>
+    <pubYear>2020</pubYear>
+    <journalIssn>2213-2600; 2213-2619;</journalIssn>
+    <pubType>discussion; journal article</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-03-25</firstIndexDate>
+    <firstPublicationDate>2020-03-20</firstPublicationDate>
+</result>
+<result>
+    <id>PPR130629</id>
+    <source>PPR</source>
+    <doi>10.1101/2020.03.24.20042374</doi>
+    <title>What is required to prevent a second major outbreak of the novel coronavirus SARS-CoV-2 upon lifting the
+        metropolitan-wide quarantine of Wuhan city, China
+    </title>
+    <authorString>Zhang L, Shen M, Ma X, Su S, Gong W, Wang J, Tao Y, Zou Z, Zhao R, Lau J, Li W, Liu F, Ye K, Wang Y,
+        Zhuang G, Fairley CK.
+    </authorString>
+    <pubYear>2020</pubYear>
+    <pubType>preprint</pubType>
+    <bookOrReportDetails>
+        <publisher>medRxiv</publisher>
+        <yearOfPublication>2020</yearOfPublication>
+    </bookOrReportDetails>
+    <isOpenAccess>N</isOpenAccess>
+    <inEPMC>N</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>N</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-01</firstIndexDate>
+    <firstPublicationDate>2020-03-30</firstPublicationDate>
+</result>
+<result>
+    <id>32198275</id>
+    <source>MED</source>
+    <pmid>32198275</pmid>
+    <pmcid>PMC7098733</pmcid>
+    <doi>10.1183/13993003.00352-2020</doi>
+    <title>More awareness is needed for severe acute respiratory syndrome coronavirus 2019 transmission through exhaled
+        air during non-invasive respiratory support: experience from China.
+    </title>
+    <authorString>Guan L, Zhou L, Zhang J, Peng W, Chen R.</authorString>
+    <journalTitle>Eur Respir J</journalTitle>
+    <issue>3</issue>
+    <journalVolume>55</journalVolume>
+    <pubYear>2020</pubYear>
+    <journalIssn>0903-1936; 1399-3003;</journalIssn>
+    <pubType>letter</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-03-22</firstIndexDate>
+    <firstPublicationDate>2020-03-20</firstPublicationDate>
+</result>
+<result>
+    <id>32303016</id>
+    <source>MED</source>
+    <pmid>32303016</pmid>
+    <doi>10.1088/1752-7163/ab8a55</doi>
+    <title>The scientific rationale for the use of simple masks or improvised face coverings to trap exhaled aerosols
+        and possibly reduce the breathborne spread of COVID-19.
+    </title>
+    <authorString>Pleil JD, Beauchamp JD, Risby TH, Dweik RA.</authorString>
+    <journalTitle>J Breath Res</journalTitle>
+    <pubYear>2020</pubYear>
+    <journalIssn>1752-7155; 1752-7163;</journalIssn>
+    <pubType>journal article</pubType>
+    <isOpenAccess>N</isOpenAccess>
+    <inEPMC>N</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>N</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-19</firstIndexDate>
+    <firstPublicationDate>2020-04-17</firstPublicationDate>
+</result>
+<result>
+    <id>32320083</id>
+    <source>MED</source>
+    <pmid>32320083</pmid>
+    <doi>10.1002/jmv.25921</doi>
+    <title>Decontamination of face masks with steam for mask reuse in fighting the pandemic COVID-19: experimental
+        supports.
+    </title>
+    <authorString>Ma QX, Shan H, Zhang CM, Zhang HL, Li GM, Yang RM, Chen JM.</authorString>
+    <journalTitle>J Med Virol</journalTitle>
+    <pubYear>2020</pubYear>
+    <journalIssn>0146-6615; 1096-9071;</journalIssn>
+    <pubType>journal article</pubType>
+    <isOpenAccess>N</isOpenAccess>
+    <inEPMC>N</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>N</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>N</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-24</firstIndexDate>
+    <firstPublicationDate>2020-04-22</firstPublicationDate>
+</result>
+<result>
+    <id>32305074</id>
+    <source>MED</source>
+    <pmid>32305074</pmid>
+    <pmcid>PMC7162638</pmcid>
+    <doi>10.1016/S0140-6736(20)30918-1</doi>
+    <title>Wearing face masks in the community during the COVID-19 pandemic: altruism and solidarity.</title>
+    <authorString>Cheng KK, Lam TH, Leung CC.</authorString>
+    <journalTitle>Lancet</journalTitle>
+    <pubYear>2020</pubYear>
+    <journalIssn>0140-6736; 1474-547x;</journalIssn>
+    <pubType>discussion; journal article</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-21</firstIndexDate>
+    <firstPublicationDate>2020-04-16</firstPublicationDate>
+</result>
+<result>
+    <id>32289038</id>
+    <source>MED</source>
+    <pmid>32289038</pmid>
+    <pmcid>PMC7136699</pmcid>
+    <doi>10.1186/s40662-020-00187-2</doi>
+    <title>A comprehensive Chinese experience against SARS-CoV-2 in ophthalmology.</title>
+    <authorString>Yu AY, Tu R, Shao X, Pan A, Zhou K, Huang J.</authorString>
+    <journalTitle>Eye Vis (Lond)</journalTitle>
+    <journalVolume>7</journalVolume>
+    <pubYear>2020</pubYear>
+    <journalIssn>2326-0254</journalIssn>
+    <pageInfo>19</pageInfo>
+    <pubType>review-article; review; journal article</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>N</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-16</firstIndexDate>
+    <firstPublicationDate>2020-04-07</firstPublicationDate>
+</result>
+<result>
+    <id>PPR154447</id>
+    <source>PPR</source>
+    <doi>10.1101/2020.04.19.20071779</doi>
+    <title>Performance of fabrics for home-made masks against spread of respiratory infection through droplets: a
+        quantitative mechanistic study
+    </title>
+    <authorString>Aydin O, Emon MAB, Saif MTA.</authorString>
+    <pubYear>2020</pubYear>
+    <pubType>preprint</pubType>
+    <bookOrReportDetails>
+        <publisher>medRxiv</publisher>
+        <yearOfPublication>2020</yearOfPublication>
+    </bookOrReportDetails>
+    <isOpenAccess>N</isOpenAccess>
+    <inEPMC>N</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>N</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>N</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-25</firstIndexDate>
+    <firstPublicationDate>2020-04-24</firstPublicationDate>
+</result>
+<result>
+    <id>32292637</id>
+    <source>MED</source>
+    <pmid>32292637</pmid>
+    <pmcid>PMC7141553</pmcid>
+    <doi>10.1016/j.ijnss.2020.04.003</doi>
+    <title>Application of refined management in the prevention and control of coronavirus disease 2019 epidemic in
+        non-isolated areas of a general hospital.
+    </title>
+    <authorString>Xu C, Jin J, Song J, Yang Y, Yao M, Zhang Y, Zao R, Chen Z.</authorString>
+    <journalTitle>Int J Nurs Sci</journalTitle>
+    <pubYear>2020</pubYear>
+    <journalIssn>2096-6296; 2352-0132;</journalIssn>
+    <pubType>research-article; journal article</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>Y</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>N</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-16</firstIndexDate>
+    <firstPublicationDate>2020-04-08</firstPublicationDate>
+</result>
+<result>
+    <id>32077661</id>
+    <source>MED</source>
+    <pmid>32077661</pmid>
+    <doi>10.3760/cma.j.issn.1001-0939.2020.0020</doi>
+    <title>[Expert consensus on preventing nosocomial transmission during respiratory care for critically ill patients
+        infected by 2019 novel coronavirus pneumonia].
+    </title>
+    <authorString>Respiratory care committee of Chinese Thoracic Society.</authorString>
+    <journalTitle>Zhonghua Jie He He Hu Xi Za Zhi</journalTitle>
+    <issue>0</issue>
+    <journalVolume>17</journalVolume>
+    <pubYear>2020</pubYear>
+    <journalIssn>1001-0939</journalIssn>
+    <pageInfo>E020</pageInfo>
+    <pubType>journal article; english abstract</pubType>
+    <isOpenAccess>N</isOpenAccess>
+    <inEPMC>N</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>N</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-02-21</firstIndexDate>
+    <firstPublicationDate>2020-02-20</firstPublicationDate>
+</result>
+<result>
+    <id>32302449</id>
+    <source>MED</source>
+    <pmid>32302449</pmid>
+    <doi>10.1111/jdv.16490</doi>
+    <title>Covid-19: Countermeasure for N95 mask-induced pressure sore.</title>
+    <authorString>Yin Z.</authorString>
+    <journalTitle>J Eur Acad Dermatol Venereol</journalTitle>
+    <pubYear>2020</pubYear>
+    <journalIssn>0926-9959; 1468-3083;</journalIssn>
+    <pubType>letter</pubType>
+    <isOpenAccess>N</isOpenAccess>
+    <inEPMC>N</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>N</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>N</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-19</firstIndexDate>
+    <firstPublicationDate>2020-04-17</firstPublicationDate>
+</result>
+<result>
+    <id>32246849</id>
+    <source>MED</source>
+    <pmid>32246849</pmid>
+    <doi>10.1111/anae.15071</doi>
+    <title>Personal protective equipment during the COVID-19 pandemic - a narrative review.</title>
+    <authorString>Cook TM.</authorString>
+    <journalTitle>Anaesthesia</journalTitle>
+    <pubYear>2020</pubYear>
+    <journalIssn>0003-2409; 1365-2044;</journalIssn>
+    <pubType>review; journal article</pubType>
+    <isOpenAccess>N</isOpenAccess>
+    <inEPMC>N</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>N</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-05</firstIndexDate>
+    <firstPublicationDate>2020-04-04</firstPublicationDate>
+</result>
+<result>
+    <id>PPR141065</id>
+    <source>PPR</source>
+    <doi>10.1101/2020.04.04.20052696</doi>
+    <title>Face mask use in the general population and optimal resource allocation during the COVID-19 pandemic</title>
+    <authorString>Worby CJ, Chang H.</authorString>
+    <pubYear>2020</pubYear>
+    <pubType>preprint</pubType>
+    <bookOrReportDetails>
+        <publisher>medRxiv</publisher>
+        <yearOfPublication>2020</yearOfPublication>
+    </bookOrReportDetails>
+    <isOpenAccess>N</isOpenAccess>
+    <inEPMC>N</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>N</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-08</firstIndexDate>
+    <firstPublicationDate>2020-04-07</firstPublicationDate>
+</result>
+<result>
+    <id>32122250</id>
+    <source>MED</source>
+    <pmid>32122250</pmid>
+    <pmcid>PMC7067171</pmcid>
+    <doi>10.1080/22221751.2020.1732232</doi>
+    <title>Public's early response to the novel coronavirus-infected pneumonia.</title>
+    <authorString>Zhan S, Yang YY, Fu C.</authorString>
+    <journalTitle>Emerg Microbes Infect</journalTitle>
+    <issue>1</issue>
+    <journalVolume>9</journalVolume>
+    <pubYear>2020</pubYear>
+    <journalIssn>2222-1751</journalIssn>
+    <pageInfo>534</pageInfo>
+    <pubType>letter</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-03-04</firstIndexDate>
+    <firstPublicationDate>2020-03-03</firstPublicationDate>
+</result>
+<result>
+    <id>32247754</id>
+    <source>MED</source>
+    <pmid>32247754</pmid>
+    <doi>10.1016/j.gie.2020.03.3853</doi>
+    <title>USE OF A MODIFIED VENTILATION MASK TO AVOID AEROSOLIZING SPREAD OF DROPLETS FOR SHORT ENDOSCOPIC PROCEDURES
+        DURING CORONAVIRUS COVID-19 OUTBREAK.
+    </title>
+    <authorString>Marchese M, Capannolo A, Lombardi L, Di Carlo M, Marinangeli F, Fusco P.</authorString>
+    <journalTitle>Gastrointest Endosc</journalTitle>
+    <pubYear>2020</pubYear>
+    <journalIssn>0016-5107; 1097-6779;</journalIssn>
+    <pubType>letter</pubType>
+    <isOpenAccess>N</isOpenAccess>
+    <inEPMC>N</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>N</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>N</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-06</firstIndexDate>
+    <firstPublicationDate>2020-04-02</firstPublicationDate>
+</result>
+<result>
+    <id>32243299</id>
+    <source>MED</source>
+    <pmid>32243299</pmid>
+    <pmcid>PMC7173034</pmcid>
+    <doi>10.1213/ANE.0000000000004843</doi>
+    <title>Waste Not, Want Not: The Re-Usability of N95 Masks.</title>
+    <authorString>Nathan N.</authorString>
+    <journalTitle>Anesth Analg</journalTitle>
+    <pubYear>2020</pubYear>
+    <journalIssn>0003-2999; 1526-7598;</journalIssn>
+    <pubType>research-article; journal article</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-04</firstIndexDate>
+    <firstPublicationDate>2020-03-31</firstPublicationDate>
+</result>
+<result>
+    <id>PPR150126</id>
+    <source>PPR</source>
+    <doi>10.1101/2020.04.06.20055368</doi>
+    <title>Alternative Qualitative Fit Testing Method for N95 Equivalent Respirators in the Setting of Resource Scarcity
+        at the George Washington University
+    </title>
+    <authorString>Provenzano D, Rao YJ, Mitic K, Obaid SN, Berger J, Goyal S, Loew MH.</authorString>
+    <pubYear>2020</pubYear>
+    <pubType>preprint</pubType>
+    <bookOrReportDetails>
+        <publisher>medRxiv</publisher>
+        <yearOfPublication>2020</yearOfPublication>
+    </bookOrReportDetails>
+    <isOpenAccess>N</isOpenAccess>
+    <inEPMC>N</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>N</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-12</firstIndexDate>
+    <firstPublicationDate>2020-04-11</firstPublicationDate>
+</result>
+<result>
+    <id>32243300</id>
+    <source>MED</source>
+    <pmid>32243300</pmid>
+    <pmcid>PMC7172555</pmcid>
+    <doi>10.1213/ANE.0000000000004841</doi>
+    <title>Utility of Substandard Face Mask Options for Health Care Workers During the COVID-19 Pandemic.</title>
+    <authorString>Abd-Elsayed A, Karri J.</authorString>
+    <journalTitle>Anesth Analg</journalTitle>
+    <pubYear>2020</pubYear>
+    <journalIssn>0003-2999; 1526-7598;</journalIssn>
+    <pubType>research-article; journal article</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-04</firstIndexDate>
+    <firstPublicationDate>2020-03-31</firstPublicationDate>
+</result>
+<result>
+    <id>32287995</id>
+    <source>MED</source>
+    <pmid>32287995</pmid>
+    <pmcid>PMC7118470</pmcid>
+    <doi>10.1016/j.buildenv.2020.106827</doi>
+    <title>Facial mask: A necessity to beat COVID-19.</title>
+    <authorString>Zhai Z.</authorString>
+    <journalTitle>Build Environ</journalTitle>
+    <journalVolume>175</journalVolume>
+    <pubYear>2020</pubYear>
+    <journalIssn>0360-1323; 1873-684x;</journalIssn>
+    <pageInfo>106827</pageInfo>
+    <pubType>editorial</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-16</firstIndexDate>
+    <firstPublicationDate>2020-03-23</firstPublicationDate>
+</result>
+<result>
+    <id>32081569</id>
+    <source>MED</source>
+    <pmid>32081569</pmid>
+    <pmcid>PMC7129623</pmcid>
+    <doi>10.1016/j.sapharm.2020.02.003</doi>
+    <title>Community pharmacist in public health emergencies: Quick to action against the coronavirus 2019-nCoV
+        outbreak.
+    </title>
+    <authorString>Ung COL.</authorString>
+    <journalTitle>Res Social Adm Pharm</journalTitle>
+    <issue>4</issue>
+    <journalVolume>16</journalVolume>
+    <pubYear>2020</pubYear>
+    <journalIssn>1551-7411; 1934-8150;</journalIssn>
+    <pageInfo>583-586</pageInfo>
+    <pubType>discussion; journal article</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-02-22</firstIndexDate>
+    <firstPublicationDate>2020-02-12</firstPublicationDate>
+</result>
+<result>
+    <id>PPR151528</id>
+    <source>PPR</source>
+    <doi>10.1101/2020.04.11.20062125</doi>
+    <title>Coronavirus epidemic: prediction and controlling measures</title>
+    <authorString>Pejman MM, fereidooni a.</authorString>
+    <pubYear>2020</pubYear>
+    <pubType>preprint</pubType>
+    <bookOrReportDetails>
+        <publisher>medRxiv</publisher>
+        <yearOfPublication>2020</yearOfPublication>
+    </bookOrReportDetails>
+    <isOpenAccess>N</isOpenAccess>
+    <inEPMC>N</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>N</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-18</firstIndexDate>
+    <firstPublicationDate>2020-04-17</firstPublicationDate>
+</result>
+<result>
+    <id>32203757</id>
+    <source>MED</source>
+    <pmid>32203757</pmid>
+    <pmcid>PMC7174826</pmcid>
+    <doi>10.1016/j.ijnurstu.2020.103567</doi>
+    <title>Policies on the use of respiratory protection for hospital health workers to protect from coronavirus disease
+        (COVID-19).
+    </title>
+    <authorString>Chughtai AA, Seale H, Islam MS, Owais M, Macintyre CR.</authorString>
+    <journalTitle>Int J Nurs Stud</journalTitle>
+    <journalVolume>105</journalVolume>
+    <pubYear>2020</pubYear>
+    <journalIssn>0020-7489; 1873-491x;</journalIssn>
+    <pageInfo>103567</pageInfo>
+    <pubType>editorial</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-03-25</firstIndexDate>
+    <firstPublicationDate>2020-03-13</firstPublicationDate>
+</result>
+<result>
+    <id>PPR152292</id>
+    <source>PPR</source>
+    <doi>10.1101/2020.04.14.20065375</doi>
+    <title>Informing Homemade Emergency Facemask Design: The Ability of Common Fabrics to Filter Ultrafine Particles
+    </title>
+    <authorString>O'Kelly E, Pirog S, Ward J, Clarkson PJ.</authorString>
+    <pubYear>2020</pubYear>
+    <pubType>preprint</pubType>
+    <bookOrReportDetails>
+        <publisher>medRxiv</publisher>
+        <yearOfPublication>2020</yearOfPublication>
+    </bookOrReportDetails>
+    <isOpenAccess>N</isOpenAccess>
+    <inEPMC>N</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>N</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-19</firstIndexDate>
+    <firstPublicationDate>2020-04-17</firstPublicationDate>
+</result>
+<result>
+    <id>32312573</id>
+    <source>MED</source>
+    <pmid>32312573</pmid>
+    <pmcid>PMC7151494</pmcid>
+    <doi>10.1016/j.bja.2020.04.005</doi>
+    <title>Fibreoptic tracheal intubation in COVID-19: not so fast.</title>
+    <authorString>Lyons C.</authorString>
+    <journalTitle>Br J Anaesth</journalTitle>
+    <pubYear>2020</pubYear>
+    <journalIssn>0007-0912; 1471-6771;</journalIssn>
+    <pubType>letter</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>N</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-24</firstIndexDate>
+    <firstPublicationDate>2020-04-10</firstPublicationDate>
+</result>
+<result>
+    <id>32309798</id>
+    <source>MED</source>
+    <pmid>32309798</pmid>
+    <pmcid>PMC7163183</pmcid>
+    <doi>10.1016/j.ajogmf.2020.100109</doi>
+    <title>NOW!: protection for obstetrical providers and patients.</title>
+    <authorString>Berghella V.</authorString>
+    <journalTitle>Am J Obstet Gynecol MFM</journalTitle>
+    <pubYear>2020</pubYear>
+    <journalIssn>2589-9333</journalIssn>
+    <pageInfo>100109</pageInfo>
+    <pubType>editorial</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>N</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-21</firstIndexDate>
+    <firstPublicationDate>2020-03-31</firstPublicationDate>
+</result>
+<result>
+    <id>PMC7172844</id>
+    <source>PMC</source>
+    <pmcid>PMC7172844</pmcid>
+    <doi>10.1016/j.amjmed.2020.04.002</doi>
+    <title>Applications of 3D Printing Technology to Address COVID-19 Related Supply Shortages.</title>
+    <authorString>Ishack S, Lipner SR.</authorString>
+    <journalTitle>Am J Med</journalTitle>
+    <journalIssn>0002-9343; 1555-7162;</journalIssn>
+    <pubType>editorial</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>Y</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>N</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-24</firstIndexDate>
+    <firstPublicationDate>2020-04-24</firstPublicationDate>
+</result>
+<result>
+    <id>PMC7172670</id>
+    <source>PMC</source>
+    <pmcid>PMC7172670</pmcid>
+    <doi>10.1016/j.rmed.2020.105987</doi>
+    <title>Practical strategies for a safe and effective delivery of aerosolized medications to patients with
+        COVID-19.
+    </title>
+    <authorString>Ari A.</authorString>
+    <journalTitle>Respir Med</journalTitle>
+    <journalIssn>0954-6111; 1532-3064;</journalIssn>
+    <pubType>review-article; review; journal article</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>Y</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>N</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-24</firstIndexDate>
+    <firstPublicationDate>2020-04-24</firstPublicationDate>
+</result>
+<result>
+    <id>32289084</id>
+    <source>MED</source>
+    <pmid>32289084</pmid>
+    <pmcid>PMC7143707</pmcid>
+    <doi>10.1016/j.visj.2020.100740</doi>
+    <title>COVID-19 Personal Protective Equipment (PPE) for the emergency physician.</title>
+    <authorString>Holland M, Zaloga DJ, Friderici CS.</authorString>
+    <journalTitle>Vis J Emerg Med</journalTitle>
+    <journalVolume>19</journalVolume>
+    <pubYear>2020</pubYear>
+    <journalIssn>2405-4690</journalIssn>
+    <pageInfo>100740</pageInfo>
+    <pubType>case reports; case-report</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-16</firstIndexDate>
+    <firstPublicationDate>2020-03-18</firstPublicationDate>
+</result>
+<result>
+    <id>32292256</id>
+    <source>MED</source>
+    <pmid>32292256</pmid>
+    <pmcid>PMC7102609</pmcid>
+    <doi>10.1016/j.jcot.2020.03.014</doi>
+    <title>Working through the COVID-19 outbreak: Rapid review and recommendations for MSK and allied heath personnel.
+    </title>
+    <authorString>Viswanath A, Monga P.</authorString>
+    <journalTitle>J Clin Orthop Trauma</journalTitle>
+    <pubYear>2020</pubYear>
+    <journalIssn>0976-5662; 2213-3445;</journalIssn>
+    <pubType>review-article; review; journal article</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-16</firstIndexDate>
+    <firstPublicationDate>2020-03-26</firstPublicationDate>
+</result>
+<result>
+    <id>32291630</id>
+    <source>MED</source>
+    <pmid>32291630</pmid>
+    <pmcid>PMC7155949</pmcid>
+    <doi>10.1007/s12630-020-01648-x</doi>
+    <title>Common breaches in biosafety during donning and doffing of protective personal equipment used in the care of
+        COVID-19 patients.
+    </title>
+    <authorString>Muñoz-Leyva F, Niazi AU.</authorString>
+    <journalTitle>Can J Anaesth</journalTitle>
+    <pubYear>2020</pubYear>
+    <journalIssn>1496-8975; 0832-610x;</journalIssn>
+    <pubType>letter</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-16</firstIndexDate>
+    <firstPublicationDate>2020-04-14</firstPublicationDate>
+</result>
+<result>
+    <id>32171806</id>
+    <source>MED</source>
+    <pmid>32171806</pmid>
+    <pmcid>PMC7156803</pmcid>
+    <doi>10.1016/j.jaad.2020.03.013</doi>
+    <title>Behavioral considerations and impact on personal protective equipment use: Early lessons from the coronavirus
+        (COVID-19) pandemic.
+    </title>
+    <authorString>Kantor J.</authorString>
+    <journalTitle>J Am Acad Dermatol</journalTitle>
+    <issue>5</issue>
+    <journalVolume>82</journalVolume>
+    <pubYear>2020</pubYear>
+    <journalIssn>0190-9622; 1097-6787;</journalIssn>
+    <pageInfo>1087-1088</pageInfo>
+    <pubType>editorial</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-03-16</firstIndexDate>
+    <firstPublicationDate>2020-03-11</firstPublicationDate>
+</result>
+<result>
+    <id>PPR138252</id>
+    <source>PPR</source>
+    <doi>10.20944/preprints202003.0444.v1</doi>
+    <title>Rapid Prototyping of Reusable 3D-Printed N95 Equivalent Respirators at the George Washington University
+    </title>
+    <authorString>Provenzano D, Rao YJ, Mitic K, Obaid SN, Pierce D, Huckenpahler J, Berger J, Goyal S, Loew MH.
+    </authorString>
+    <pubYear>2020</pubYear>
+    <pubType>preprint</pubType>
+    <bookOrReportDetails>
+        <publisher>Preprints.org</publisher>
+        <yearOfPublication>2020</yearOfPublication>
+    </bookOrReportDetails>
+    <isOpenAccess>N</isOpenAccess>
+    <inEPMC>N</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>N</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-02</firstIndexDate>
+    <firstPublicationDate>2020-03-31</firstPublicationDate>
+</result>
+<result>
+    <id>32212103</id>
+    <source>MED</source>
+    <pmid>32212103</pmid>
+    <pmcid>PMC7095295</pmcid>
+    <doi>10.1007/s12630-020-01637-0</doi>
+    <title>Practical considerations for performing regional anesthesia: lessons learned from the COVID-19 pandemic.
+    </title>
+    <authorString>Lie SA, Wong SW, Wong LT, Wong TGL, Chong SY.</authorString>
+    <journalTitle>Can J Anaesth</journalTitle>
+    <pubYear>2020</pubYear>
+    <journalIssn>1496-8975; 0832-610x;</journalIssn>
+    <pubType>review-article; review; journal article</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-03-26</firstIndexDate>
+    <firstPublicationDate>2020-03-24</firstPublicationDate>
+</result>
+<result>
+    <id>32131908</id>
+    <source>MED</source>
+    <pmid>32131908</pmid>
+    <pmcid>PMC7137535</pmcid>
+    <doi>10.1017/ice.2020.58</doi>
+    <title>Escalating infection control response to the rapidly evolving epidemiology of the coronavirus disease 2019
+        (COVID-19) due to SARS-CoV-2 in Hong Kong.
+    </title>
+    <authorString>Cheng VCC, Wong SC, Chen JHK, Yip CCY, Chuang VWM, Tsang OTY, Sridhar S, Chan JFW, Ho PL, Yuen KY.
+    </authorString>
+    <journalTitle>Infect Control Hosp Epidemiol</journalTitle>
+    <pubYear>2020</pubYear>
+    <journalIssn>0899-823x; 1559-6834;</journalIssn>
+    <pageInfo>1-6</pageInfo>
+    <pubType>research-article; journal article</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-03-06</firstIndexDate>
+    <firstPublicationDate>2020-03-05</firstPublicationDate>
+</result>
+<result>
+    <id>32248146</id>
+    <source>MED</source>
+    <pmid>32248146</pmid>
+    <pmcid>PMC7134482</pmcid>
+    <doi>10.1183/16000617.0068-2020</doi>
+    <title>Protecting healthcare workers from SARS-CoV-2 infection: practical indications.</title>
+    <authorString>Ferioli M, Cisternino C, Leo V, Pisani L, Palange P, Nava S.</authorString>
+    <journalTitle>Eur Respir Rev</journalTitle>
+    <issue>155</issue>
+    <journalVolume>29</journalVolume>
+    <pubYear>2020</pubYear>
+    <journalIssn>0905-9180; 1600-0617;</journalIssn>
+    <pubType>research-article; journal article</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-06</firstIndexDate>
+    <firstPublicationDate>2020-03-01</firstPublicationDate>
+</result>
+<result>
+    <id>32170229</id>
+    <source>MED</source>
+    <pmid>32170229</pmid>
+    <pmcid>PMC7091796</pmcid>
+    <doi>10.1038/s41415-020-1384-2</doi>
+    <title>Face mask stockpile uncovered.</title>
+    <journalTitle>Br Dent J</journalTitle>
+    <issue>5</issue>
+    <journalVolume>228</journalVolume>
+    <pubYear>2020</pubYear>
+    <journalIssn>0007-0610; 1476-5373;</journalIssn>
+    <pageInfo>320</pageInfo>
+    <pubType>news</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>N</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-03-15</firstIndexDate>
+    <firstPublicationDate>2020-03-01</firstPublicationDate>
+</result>
+<result>
+    <id>32221852</id>
+    <source>MED</source>
+    <pmid>32221852</pmid>
+    <pmcid>PMC7101597</pmcid>
+    <doi>10.1007/s12630-020-01638-z</doi>
+    <title>Simulation as a tool for assessing and evolving your current personal protective equipment: lessons learned
+        during the coronavirus disease (COVID-19) pandemic.
+    </title>
+    <authorString>Lockhart SL, Naidu JJ, Badh CS, Duggan LV.</authorString>
+    <journalTitle>Can J Anaesth</journalTitle>
+    <pubYear>2020</pubYear>
+    <journalIssn>1496-8975; 0832-610x;</journalIssn>
+    <pubType>letter</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-03-29</firstIndexDate>
+    <firstPublicationDate>2020-03-27</firstPublicationDate>
+</result>
+<result>
+    <id>PMC7175818</id>
+    <source>PMC</source>
+    <pmcid>PMC7175818</pmcid>
+    <doi>10.1007/s12630-020-01666-9</doi>
+    <title>Safer intubation and extubation of patients with COVID-19.</title>
+    <authorString>Asenjo JF.</authorString>
+    <journalTitle>Canadian Journal of Anaesthesia</journalTitle>
+    <journalIssn>0832-610x</journalIssn>
+    <pageInfo>1-3</pageInfo>
+    <pubType>letter</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>Y</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>N</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-24</firstIndexDate>
+    <firstPublicationDate>2020-04-24</firstPublicationDate>
+</result>
+<result>
+    <id>32251511</id>
+    <source>MED</source>
+    <pmid>32251511</pmid>
+    <pmcid>PMC7153751</pmcid>
+    <doi>10.7326/M20-1342</doi>
+    <title>Effectiveness of Surgical and Cotton Masks in Blocking SARS-CoV-2: A Controlled Comparison in 4 Patients.
+    </title>
+    <authorString>Bae S, Kim MC, Kim JY, Cha HH, Lim JS, Jung J, Kim MJ, Oh DK, Lee MK, Choi SH, Sung M, Hong SB, Chung
+        JW, Kim SH.
+    </authorString>
+    <journalTitle>Ann Intern Med</journalTitle>
+    <pubYear>2020</pubYear>
+    <journalIssn>0003-4819; 1539-3704;</journalIssn>
+    <pubType>other; journal article</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-08</firstIndexDate>
+    <firstPublicationDate>2020-04-06</firstPublicationDate>
+</result>
+<result>
+    <id>PMC7156232</id>
+    <source>PMC</source>
+    <pmcid>PMC7156232</pmcid>
+    <doi>10.1016/j.radonc.2020.03.029</doi>
+    <title>Radiotherapy Workflow and Protection Procedures During the Coronavirus Disease 2019 (COVID-19) Outbreak:
+        Experience of the Hubei Cancer Hospital in Wuhan, China.
+    </title>
+    <authorString>Wei W, Zheng D, Lei Y, Wu S, Verma V, Liu Y, Wei X, Bi J, Hu D, Han G.</authorString>
+    <journalTitle>Radiother Oncol</journalTitle>
+    <journalIssn>0167-8140; 1879-0887;</journalIssn>
+    <pubType>review-article; review; journal article</pubType>
+    <isOpenAccess>Y</isOpenAccess>
+    <inEPMC>Y</inEPMC>
+    <inPMC>Y</inPMC>
+    <hasPDF>Y</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>N</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-17</firstIndexDate>
+    <firstPublicationDate>2020-04-17</firstPublicationDate>
+</result>
+<result>
+    <id>PPR152436</id>
+    <source>PPR</source>
+    <doi>10.1101/2020.04.14.20063958</doi>
+    <title>A Rapidly Deployable Negative Pressure Enclosure for Aerosol-Generating Medical Procedures</title>
+    <authorString>Chahal AM, Van Dewark K, Gooch R, Fukushima E, Hudson ZM.</authorString>
+    <pubYear>2020</pubYear>
+    <pubType>preprint</pubType>
+    <bookOrReportDetails>
+        <publisher>medRxiv</publisher>
+        <yearOfPublication>2020</yearOfPublication>
+    </bookOrReportDetails>
+    <isOpenAccess>N</isOpenAccess>
+    <inEPMC>N</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>N</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>Y</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>Y</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-20</firstIndexDate>
+    <firstPublicationDate>2020-04-18</firstPublicationDate>
+</result>
+<result>
+    <id>32331344</id>
+    <source>MED</source>
+    <pmid>32331344</pmid>
+    <doi>10.3390/ijerph17082893</doi>
+    <title>Hand Hygiene, Mask-Wearing Behaviors and Its Associated Factors during the COVID-19 Epidemic: A
+        Cross-Sectional Study among Primary School Students in Wuhan, China.
+    </title>
+    <authorString>Chen X, Ran L, Liu Q, Hu Q, Du X, Tan X.</authorString>
+    <journalTitle>Int J Environ Res Public Health</journalTitle>
+    <issue>8</issue>
+    <journalVolume>17</journalVolume>
+    <pubYear>2020</pubYear>
+    <journalIssn>1661-7827; 1660-4601;</journalIssn>
+    <pubType>journal article</pubType>
+    <isOpenAccess>N</isOpenAccess>
+    <inEPMC>N</inEPMC>
+    <inPMC>N</inPMC>
+    <hasPDF>N</hasPDF>
+    <hasBook>N</hasBook>
+    <hasSuppl>N</hasSuppl>
+    <citedByCount>0</citedByCount>
+    <hasReferences>N</hasReferences>
+    <hasTextMinedTerms>N</hasTextMinedTerms>
+    <hasDbCrossReferences>N</hasDbCrossReferences>
+    <hasLabsLinks>N</hasLabsLinks>
+    <hasTMAccessionNumbers>N</hasTMAccessionNumbers>
+    <firstIndexDate>2020-04-26</firstIndexDate>
+    <firstPublicationDate>2020-04-22</firstPublicationDate>
+</result>
+</resultList></responseWrapper>

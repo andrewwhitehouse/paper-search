@@ -7,6 +7,7 @@
                  [clj-http "3.10.1"]
                  [com.cemerick/url "0.1.1"]
                  [org.clojure/data.xml "0.0.8"]
-                 [org.clojure/data.json "1.0.0"]]
+                 [org.clojure/data.json "1.0.0"]
+                 [org.apache.pdfbox/pdfbox "2.0.19"]]
   :repl-options {:init-ns paper-search.europemc}
   :main paper-search.europemc)
